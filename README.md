@@ -37,3 +37,5 @@ The Personal Stylist Chatbot is an AI-driven application designed to provide per
 ## Note
 
 This project is intended for educational and personal use. Ensure that you have the necessary API keys and permissions to use the generative AI services.
+##link
+https://personalstylistaichatbot.streamlit.app/
