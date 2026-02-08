@@ -12,9 +12,6 @@ Secure & Reliable: Clean design ready for integration with secure backend.
 Responsive Design: Fully responsive across devices.
 Animated Landing Page: Includes floating math formulas and geometric shapes for an engaging hero section.
 🚀 Installation
-1️⃣ Clone the repository:
-
-git clone https://github.com/Sky07light/ExamEval.git
 cd ExamEval
 2️⃣ Install dependencies:
 
@@ -23,3 +20,4 @@ npm install tailwindcss @tailwindcss/vite
 
 npm run dev
 The app will run at http://localhost:5173.
+
